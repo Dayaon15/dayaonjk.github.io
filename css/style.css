@@ -85,32 +85,6 @@ nav{
 	color: #005b8f;
 	transition: 0.8s ease;
 }
-.home{
-	position: relative;
-}
-.big-eclipse{
-	position: absolute;
-	height: 60%;
-	top: 0;
-	right: 0;
-	opacity: 0.5;
-	z-index: -1;
-}
-.mid-eclipse{
-	position: absolute;
-	height: 60%;
-	top: 25%;
-	right: 15%;
-	opacity: 0.6;
-	z-index: -1;
-}
-.small-eclipse{
-	position: absolute;
-	bottom: 0;
-	right: 35%;
-	opacity: 0.7;
-	z-index: -1;
-}
 /* PRESENTATION STYLE SECTION */
 
 
